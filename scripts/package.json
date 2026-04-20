@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "prepare": "node get-data.js"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
+}
